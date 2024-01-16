@@ -25,6 +25,3 @@ Screenshots
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-Mention any contributors or libraries that you would like to acknowledge.
